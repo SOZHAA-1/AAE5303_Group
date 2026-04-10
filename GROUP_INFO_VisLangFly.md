@@ -31,7 +31,7 @@ We named it "VisLangFly" because it intuitively integrates the three core elemen
 
 ## Group Projects
 - **(group) Final project:** https://github.com/yourgroup/final-project
-- **VO:** https://github.com/yourgroup/vo
+- **VO:** [https://github.com/yourgroup/vo](https://github.com/everyone-moon/AAE5303_ORB_SLAM3_GROUP_INFO_VisLangFly)
 - **Opensplating:** https://github.com/yourgroup/opensplating
 - **U-net:** https://github.com/yourgroup/u-net
 
