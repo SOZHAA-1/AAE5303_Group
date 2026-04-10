@@ -32,7 +32,7 @@ We named it "VisLangFly" because it intuitively integrates the three core elemen
 ## Group Projects
 - **(group) Final project:** https://github.com/yourgroup/final-project
 - **VO:** [https://github.com/yourgroup/vo](https://github.com/everyone-moon/AAE5303_ORB_SLAM3_GROUP_INFO_VisLangFly)
-- **Opensplating:** https://github.com/yourgroup/opensplating
+- **Opensplating:** [https://github.com/yourgroup/opensplating](https://github.com/SOZHAA-1/AAE5303_VisLangFly_project_3D-reconstruction)
 - **U-net:** https://github.com/yourgroup/u-net
 
 Up to 3 members~
